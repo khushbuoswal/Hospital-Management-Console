@@ -1,0 +1,7 @@
+D0001,defaultPassword,Rajeev,Oswal,Rajeev@gmail.com,3546464,9, Balagarh, Pune, Puneone
+D0002,defaultPassword,Kalpana ,Oswal,kalpana@gmail.com,4654745,1, Gur, Mumbai, Maharashtra
+D0003,defaultPassword,vimal,Chandra,Vimal@gmail.com,53646,1, Yo, Dubai, UAE
+D0004,defaultPassword,Pruthvi,Shah,Pruthvi@student.uts.edu.au,0486305429,3, Road, Perth, Victoria
+D0005,defaultPassword,Aryan,Sinha,aryan@gmail.com,0568493878,3, Retm, Penrith, Sydney
+D0006,defaultPassword,Preethi,Supernamium,Preethi@gmail.com,0462984825,9, Schol, Lohofield, India
+D0007,cUqVBaih,Swati,Devil,Devil@gmail.com,065438739,5, Ray, Delhi, Mumbai

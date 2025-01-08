@@ -1,0 +1,14 @@
+C:\Users\14098887\OneDrive - UTS\khush\bin\Debug\net8.0\khush.exe
+C:\Users\14098887\OneDrive - UTS\khush\bin\Debug\net8.0\khush.deps.json
+C:\Users\14098887\OneDrive - UTS\khush\bin\Debug\net8.0\khush.runtimeconfig.json
+C:\Users\14098887\OneDrive - UTS\khush\bin\Debug\net8.0\khush.dll
+C:\Users\14098887\OneDrive - UTS\khush\bin\Debug\net8.0\khush.pdb
+C:\Users\14098887\OneDrive - UTS\khush\obj\Debug\net8.0\khush.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\14098887\OneDrive - UTS\khush\obj\Debug\net8.0\khush.AssemblyInfoInputs.cache
+C:\Users\14098887\OneDrive - UTS\khush\obj\Debug\net8.0\khush.AssemblyInfo.cs
+C:\Users\14098887\OneDrive - UTS\khush\obj\Debug\net8.0\khush.csproj.CoreCompileInputs.cache
+C:\Users\14098887\OneDrive - UTS\khush\obj\Debug\net8.0\khush.dll
+C:\Users\14098887\OneDrive - UTS\khush\obj\Debug\net8.0\refint\khush.dll
+C:\Users\14098887\OneDrive - UTS\khush\obj\Debug\net8.0\khush.pdb
+C:\Users\14098887\OneDrive - UTS\khush\obj\Debug\net8.0\khush.genruntimeconfig.cache
+C:\Users\14098887\OneDrive - UTS\khush\obj\Debug\net8.0\ref\khush.dll
